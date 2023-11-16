@@ -1,4 +1,6 @@
-# rubrik 1
-  9erfi9reif
-  ## rubrik 2
-  idjfoiejfgoijf
+# rubrik A
+  Svårt att bråla
+  ## rubrik B
+  Lätt som en plätt
+  ### rubrik C
+  Hur blir det nu med uppgraderingen 
